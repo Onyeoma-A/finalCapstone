@@ -24,7 +24,8 @@
 * Click download to instal the program
 ## Usage
 * After installing program. Run and go to menu:
-<img src ="Pictures/Picture1 alt="Alt text" title="Optional title">
+![My Remote Image] (https://www.dropbox.com/home/OA22110005348/Software%20Engineer%20Bootcamp?preview=Picture1.jpg)
+![My Image](Picture1.jpg)
 
 Include screenshots of your project in action.
 Credits: Onyeoma Adigwe and HyperionDev (for assigning the task) 
